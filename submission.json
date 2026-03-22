@@ -1,0 +1,7 @@
+{
+  "prompt": "An archaeological close-up photograph of an ancient textile fragment laid flat on dark wet earth, shot directly overhead. The very center of the weave is dense and richly colored — deep indigo, ochre, rust, sage — hundreds of distinct threads tightly interlocked. Moving outward from the center, threads progressively disappear: first the colored weft threads vanish leaving only bare grey warp, then the warp itself snaps and frays into loose hanging filaments, until the outermost edges are nothing but skeletal single threads dissolving into bare dark soil. The transition from color and density to emptiness is the entire subject. No framing, no decoration, no text. Forensic documentation aesthetic. Shot as evidence of irreversible loss.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "UNESCO Atlas of the World's Languages in Danger",
+  "dataset_url": "https://www.unesco.org/languages-atlas/",
+  "insight": "Approximately 2,500 languages are currently endangered, and each extinction permanently destroys a unique cognitive and cultural architecture with no possibility of recovery."
+}
